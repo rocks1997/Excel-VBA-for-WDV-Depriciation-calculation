@@ -22,6 +22,8 @@ This repository provides a clean, maintainable VBA alternative to long, unreadab
 2. Click **Insert > Module** from the top menu.
 3. Copy the code from [`WDV_Depreciation.bas`](./WDV_Depreciation.bas) (or `Module1.vba`) and paste it into the code window.
 4. Save your workbook as an **Excel Macro-Enabled Workbook (`.xlsm`)**.
+5. Copy the code from ['Helper Description.cls'] and paste it in ThisWorkbook code window.
+
 
 ---
 
