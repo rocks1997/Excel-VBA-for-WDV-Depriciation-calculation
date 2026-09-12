@@ -20,7 +20,7 @@ This repository provides a clean, maintainable VBA alternative to long, unreadab
 
 1. Open your Excel workbook and press `Alt + F11` to launch the **VBA Editor**.
 2. Click **Insert > Module** from the top menu.
-3. Copy the code from [`WDV_Depreciation.bas`](./WDV_Depreciation.bas) (or `Module1.vba`) and paste it into the code window.
+3. Copy the code from [`WDV_Depreciation.bas`](https://github.com/rocks1997/Excel-VBA-for-WDV-Depriciation-calculation/releases/download/V1/WDV.Depriciation.bas)and paste it into the code window.
 4. Save your workbook as an **Excel Macro-Enabled Workbook (`.xlsm`)**.
 5. Copy the code from ['Helper Description.cls'](https://github.com/rocks1997/Excel-VBA-for-WDV-Depriciation-calculation/releases/download/V1/Helper.Description.cls)and paste it in ThisWorkbook code window.
 
